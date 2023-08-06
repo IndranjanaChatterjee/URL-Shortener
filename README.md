@@ -18,5 +18,9 @@ This is a simple URL shortener GUI application built with Python and Tkinter. It
    ```bash
    git clone https://github.com/your-username/url-shortener-tkinter.git
 
+## Link to my Code:
+
+-[CODE](https://github.com/IndranjanaChatterjee/URL-Shortener/blob/main/shorten.py)
+
 
 
