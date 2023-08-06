@@ -1,5 +1,7 @@
 import tkinter
+
 import pyshorteners
+
 def shorten():
     short=pyshorteners.Shortener()
     short_url=short.tinyurl.short(url_entry.get())
