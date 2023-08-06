@@ -20,7 +20,7 @@ This is a simple URL shortener GUI application built with Python and Tkinter. It
 
 ## Link to my Code:
 
--[CODE](https://github.com/IndranjanaChatterjee/URL-Shortener/blob/main/shorten.py)
+-   [CODE](https://github.com/IndranjanaChatterjee/URL-Shortener/blob/main/shorten.py)
 
 
 
