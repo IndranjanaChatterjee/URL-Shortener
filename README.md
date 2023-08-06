@@ -21,6 +21,8 @@ This is a simple URL shortener GUI application built with Python and Tkinter. It
 ## Link to my Code:
 
 -   [CODE](https://github.com/IndranjanaChatterjee/URL-Shortener/blob/main/shorten.py)
+-   [Preview](https://github.com/IndranjanaChatterjee/URL-Shortener/blob/main/Preview.jpg)
+-   [Shortening state preview](https://github.com/IndranjanaChatterjee/URL-Shortener/blob/main/url%20shortening.jpg)
 
 
 
