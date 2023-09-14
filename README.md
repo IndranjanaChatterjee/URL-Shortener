@@ -11,7 +11,8 @@ This is a simple URL shortener GUI application built with Python and Tkinter. It
 - Shorten any long URL to a compact link.
 - Copy the shortened link to your clipboard with one click.
 
-## Installation
+## Installation:
+
 
 1. Clone the repository:
 
